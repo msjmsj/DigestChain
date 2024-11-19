@@ -1,0 +1,14 @@
+# Python
+#创建日期 2024年10月22日
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env
+.venv/
+
+# 日志
+*.log
